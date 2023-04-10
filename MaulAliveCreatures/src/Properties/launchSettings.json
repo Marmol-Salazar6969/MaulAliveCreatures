@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Run On RainWorld": {
+      "commandName": "Executable",
+      "executablePath": "./RainWorld.exe"
+    }
+  }
+}
