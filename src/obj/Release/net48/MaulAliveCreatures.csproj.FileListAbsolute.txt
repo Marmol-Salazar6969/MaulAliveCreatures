@@ -1,7 +1,0 @@
-C:\Users\KnobbyTacks\Desktop\MaulAliveCreatures\src\bin\Release\net48\MaulAliveCreatures.dll
-C:\Users\KnobbyTacks\Desktop\MaulAliveCreatures\src\obj\Release\net48\MaulAliveCreatures.csproj.AssemblyReference.cache
-C:\Users\KnobbyTacks\Desktop\MaulAliveCreatures\src\obj\Release\net48\MaulAliveCreatures.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\KnobbyTacks\Desktop\MaulAliveCreatures\src\obj\Release\net48\MaulAliveCreatures.AssemblyInfoInputs.cache
-C:\Users\KnobbyTacks\Desktop\MaulAliveCreatures\src\obj\Release\net48\MaulAliveCreatures.AssemblyInfo.cs
-C:\Users\KnobbyTacks\Desktop\MaulAliveCreatures\src\obj\Release\net48\MaulAliveCreatures.csproj.CoreCompileInputs.cache
-C:\Users\KnobbyTacks\Desktop\MaulAliveCreatures\src\obj\Release\net48\MaulAliveCreatures.dll
