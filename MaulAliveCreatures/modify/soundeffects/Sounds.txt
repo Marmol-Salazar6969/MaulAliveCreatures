@@ -1,3 +1,0 @@
-[ADD]scavcry/rangeFac=1 : scavcry/vol=0.2/pitch=1
-[ADD]yummers/rangeFac=1 : yummers/vol=0.3/pitch=1
-[ADD]munch/rangeFac=1 : munch/vol=0.2/pitch=1
